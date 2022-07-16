@@ -1,0 +1,25 @@
+1. Download and Install XAMPP
+2. Open local disk C
+3. Locate the XAMPP folder and open it
+4. Locate the htdocs folder and create a new folder with the name tms
+5. Extract everything in the TMS zip file into the tms folder that you've created in the htdocs folder
+6. Now open your XAMPP application and start you Apache and MYSQL modules respectively
+7. Open your web browser but i prefer Google Chrome
+8. type on localhost and press enter
+9. locate phpMyAdmin at the top menu and click on it to open a new tab
+10. locate database and click on it to open then you create a new database titled "tms"
+11. Now locate the import button and click on it to open
+12. Import the tms.sql file from the folder titled sql file in your extracted folder that you created in the htdocs folder
+13. upload the file 
+14. open a new tab and type in localhost/tms to open your tourism website
+15.  The details for the admin log in page is 
+     Name: admin
+     Password : Test@123
+16. With the user log ins, you can create a new one yourself with you credentials.
+
+
+
+
+
+ 
+ 
