@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
 define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','tms');
+define('DB_USER','fourteen');
+define('DB_PASS','fourteen98');
+define('DB_NAME','Touristiva');
 // Establish database connection.
 try
 {
@@ -13,4 +13,3 @@ catch (PDOException $e)
 {
 exit("Error: " . $e->getMessage());
 }
-?>
